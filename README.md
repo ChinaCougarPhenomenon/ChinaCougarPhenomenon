@@ -10,9 +10,9 @@
 - **sentiment**: Classifies the comment's tone as `hate` or `non-hate`.
 
 ### `model_performance`
-- Documents model performance metrics when fine-tuned with various parameters.
+- Documents model performance metrics when fine-tuned with various parameter combinations.
 
-### `model_robustness_`
+### `model_robustness`
 - Records the final sentiment analysis model's robustness across different random seeds.
 
 ## Data Ethics and FAIR Principles
