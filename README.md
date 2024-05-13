@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ## Datasets Overview
 
 ### `sample_comments`
