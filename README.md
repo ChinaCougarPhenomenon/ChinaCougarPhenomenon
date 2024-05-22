@@ -8,7 +8,10 @@
 - **word**: Lists the thematic keyword for the comment.
 - **sentiment**: Classifies the comment's tone as `hate` or `non-hate`.
 
-### `Annotation Guide`
+### `filtered_topics`
+- Provides topic infomation of comments clustered by Bertopic.
+
+### `AnnotationGuide`
 - Provides the criteria for categorizing comments into 'hate' or 'non-hate'.
 
 ### `model_performance`
